@@ -33,11 +33,11 @@ contenga la siguiente información de cada trabajador: RUT, nombre y apellidos, 
   Resultado en Consola
   <img width="1009" height="664" alt="Captura de pantalla 2026-04-25 a la(s) 13 59 08" src="https://github.com/user-attachments/assets/1dc5238d-2ff5-4404-8dec-b7641d449af1" />
 
-  - Etapa 2 Optimización de consultas: La empresa SpaceLive requiere ajustar las sentencias, ya que ha detectado una degradación en la BBDD. Necesita un plan de ejecución optimizado para una consulta SQL que filtra
-registros por el apellido materno "CASTILLO" usando UPPER.
+  - Etapa 2 Optimización de consultas: La empresa SpaceLive requiere ajustar las sentencias, ya que ha detectado una degradación en la BBDD. Necesita un plan de ejecución optimizado para una consulta SQL que filtra registros por el apellido materno "CASTILLO" usando UPPER.
 
   Script
  <img width="807" height="585" alt="Captura de pantalla 2026-04-25 a la(s) 15 00 30" src="https://github.com/user-attachments/assets/972fffe1-dcc8-4f62-a19b-bff1cb309477" />
+
 
   Resultados en Consola
  <img width="912" height="606" alt="Captura de pantalla 2026-04-25 a la(s) 14 59 34" src="https://github.com/user-attachments/assets/39384c31-e477-42d0-9787-ccd61e8c74b2" />
